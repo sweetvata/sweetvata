@@ -14,7 +14,7 @@
 
 ```
 class Whoami {
-    focus   = ["JVM internals", "bytecode", "Windows forensics"];
+    focus   = ["JVM internals", "bytecode", "Windows ЧМО"];
     builds  = "tools that dig where GUIs don't go";
     mood    = "dark mode, always";
 }
