@@ -2,7 +2,7 @@
 
 # ⚡ hey, I'm not your average dev ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4FCB&center=true&vCenter=true&width=500&lines=reverse+engineering+%2F+forensics;JVM+internals+%2B+bytecode;Windows+artifact+archaeology;building+tools+nobody+asked+for" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4FCB&center=true&vCenter=true&width=500&lines=reverse+engineering+%2F+ЧМО;JVM+internals+%2B+bytecode;SUHC+Screen+Share;building+tools+nobody+asked+for" alt="typing-svg" />
 
 </div>
 
